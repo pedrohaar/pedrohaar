@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente trabalho na infra.<br>🌱 Estou à procura de novos conhecimentos.<br>⚡ Sonho de ser um Dev.
+🔭 I currently work in the infra department.<br>🌱 I'm looking for new skills.<br>⚡ My dream is to become a programmer!
 
 
 ## 🌐 Socials:
